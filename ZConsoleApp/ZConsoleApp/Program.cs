@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("App Architecture");
-            Console.WriteLine("feature-1");
+            Console.WriteLine("feature-1-fixes");
         }
     }
 }
